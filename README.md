@@ -100,4 +100,4 @@ Deploying this project surfaced a few real-world issues beyond just training the
 
 ## Author
 
-Built by [Arpita7007](https://github.com/Arpita7007) as part of an ML/Data Science portfolio for placement preparation.
+Built by [Arpita7007](https://github.com/Arpita7007) as part of an ML/Data Science portfolio.
